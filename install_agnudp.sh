@@ -14,13 +14,13 @@ DOMAIN="vpn.khaledagn.me"
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":36712"
+UDP_PORT=":9201"
 
 # OBFS
-OBFS="agnudp"
+OBFS="pieudp"
 
 # PASSWORDS
-PASSWORD="agnudp"
+PASSWORD="pieudp"
 
 # Script paths
 SCRIPT_NAME="$(basename "$0")"
