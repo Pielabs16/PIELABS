@@ -6,7 +6,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 # Client app PIE LABS
 
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.pie.injector"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge\.png" height="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.pie.injector"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="100"></a>
 </p>
 
 
