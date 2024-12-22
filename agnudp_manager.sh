@@ -120,15 +120,15 @@ uninstall_server() {
 
 show_banner() {
     echo -e "\e[1;36m---------------------------------------------"
-    echo " AGNUDP Manager"
-    echo " (c) 2023 Khaled AGN"
-    echo " Telegram: @khaledagn"
+    echo " PIE_LABS Manager"
+    echo " (c) 2024 PIE LABS"
+    echo " Telegram: @pielabs"
     echo "---------------------------------------------\e[0m"
 }
 
 show_menu() {
     echo -e "\e[1;36m----------------------------"
-    echo " AGNUDP Manager"
+    echo " PIE_LABS Manager"
     echo -e "----------------------------\e[0m"
     echo -e "\e[1;32m1. Add new user"
     echo "2. Edit user password"
