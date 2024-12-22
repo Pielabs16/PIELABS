@@ -15,15 +15,15 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://github.com/Pielabs16/PIELABS/raw/main/install_agnudp.sh
+wget https://github.com/Pielabs16/PIELABS/raw/main/install_pieudp.sh
 ```
 // Edit script configuration 
 ```
-nano install_agnudp.sh
+nano install_pieudp.sh
 ```
 // Install the script
 ```
-chmod +x install_agnudp.sh; ./install_agnudp.sh
+chmod +x install_agnudp.sh; ./install_pieudp.sh
 ```
 
 ## :octocat: by KHALED AGN
